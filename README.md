@@ -11,7 +11,7 @@ tech: expo - shdncd
 
 # spkio
 description: una aplicación para conferencias. asistis al evento y te dice todo sobre la charla que estas buscando: tema, descripcion, dia, hora, lugar, disertante, presentación para seguirla por la app. podes hacer preguntas y participar en encuestas en vivo.
-tech: expo - supabase
+tech: expo - gluestack - supabase
 
 # conto
 description: una herramienta para pedir comida y bebida en bares y restaurantes. llegas, escaneas y pedis. compartiendo tu llegada, notificas a amigos donde estas y ganas puntos. 
