@@ -2,7 +2,7 @@
 este repo sirve para anotar las ideas que estoy trabajando actualmente
 
 # listita
-**description:** una simple pwa donde anotas tu lista de compras y te agrupa los productos por supermercados donde mas barato está. te envia promociones por dia. la idea es que sea una simple lista de compras y apartir de esa lista te muestra donde es mas barato comprar, estadisticas de compra, historial de precios, sugerencias, etc.
+*description:* una simple pwa donde anotas tu lista de compras y te agrupa los productos por supermercados donde mas barato está. te envia promociones por dia. la idea es que sea una simple lista de compras y apartir de esa lista te muestra donde es mas barato comprar, estadisticas de compra, historial de precios, sugerencias, etc.
 tech: astro - tailwind - supabase
 repo:
 
@@ -14,6 +14,7 @@ repo:
 # spkio
 description: una aplicación para conferencias. asistis al evento y te dice todo sobre la charla que estas buscando: tema, descripcion, dia, hora, lugar, disertante, presentación para seguirla por la app. podes hacer preguntas y participar en encuestas en vivo.
 tech: expo - gluestack - supabase
+
 repo: [https://github.com/alexlecco/spkio](https://github.com/alexlecco/spkio)
 
 # conto
