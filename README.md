@@ -5,6 +5,8 @@ este repo sirve para anotar las ideas que estoy trabajando actualmente
 *description:* una simple pwa donde anotas tu lista de compras y te agrupa los productos por supermercados donde mas barato está. te envia promociones por dia. la idea es que sea una simple lista de compras y apartir de esa lista te muestra donde es mas barato comprar, estadisticas de compra, historial de precios, sugerencias, etc.
 tech: astro - tailwind - supabase
 repo:
+fatures:
+- mostrar cuanto gastarias en cada uno de los supermercados
 
 # teafeel
 description: una app para amantes del té. teafeel permite crear tu teabox personalizada, dependiendo de tus gustos o necesidades de salud. una vez creada la teabox, podes comprarla y luego pedir re-feel de tés. te manda consejos saludables sobre que té podes consumir para diferentes necesidades.
