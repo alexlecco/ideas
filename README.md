@@ -5,8 +5,8 @@ este repo sirve para anotar las ideas que estoy trabajando actualmente
 *description:** una simple pwa donde anotas tu lista de compras y te agrupa los productos por supermercados donde mas barato está. te envia promociones por dia. la idea es que sea una simple lista de compras y apartir de esa lista te muestra donde es mas barato comprar, estadisticas de compra, historial de precios, sugerencias, etc.
 tech: astro - tailwind - supabase
 repos:
-- listita-pwa
-- listita-api
+- [listita-pwa](github.com/alexlecco/listita-webapp)
+- [listita-api (no repo yet)]()
 
 fatures:
 - mostrar cuanto gastarias en cada uno de los supermercados
