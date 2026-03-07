@@ -43,6 +43,15 @@ _________________________________________________________
 _________________________________________________________
 _________________________________________________________
 
+app que te arma una rutina
+
+proximo peoyecto
+
+vos le contas en un tweet como te sentis y te arma rutina
+
+ejercicio, meditacion, trabajo, alimentacion
+
+
 ### tools to learn
 
 # AI generators
