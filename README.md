@@ -35,10 +35,18 @@ repo:
 _________________________________________________________
 _________________________________________________________
 # salute
-description: un asistente de alimentanción completo. seteas tus necesidades nutricionales y de salud, gustos de alimentación y salute te arma un menú semanal almuerzo-cena, con recetas que te gusten, te enseña a prepararlas y te genera una lista de compras con los ingredientes.
-tech: expo - nativebase - supabase
-repo:
+description: Salute es una app que organiza tu menú semanal para comer lo que necesitas, logrando un equilibrio entre tus gustos y las cosas que te hacen bien. la aplicación tiene un modulo de aprendizaje sobre el usuario (no un stepper inicial, debemos pensar algo innovador), que permite conocer diferentes aspectos de la persona (estatura, peso, estado aninimo general, que ejercicio hace semanalmente, necesidades nutricionales, restricciones de salud como celiaquia o intelerancia a la lactosa y gustos personales en alimentación) cuando inicia a usar Salute y asi puede recomendarle los mejores menues para almuerzo y cena. a demás de recomendarte aleatoriamente recetas, te enseña a prepararla de una manera muy intuitiva mediante su fluida, moderna e innovadora UI 2026.
+Salute tiene un concepto sólido: personalización inteligente + UX fluida + educación nutricional.
+tech: expo -  - 
+repo: 
 _________________________________________________________
+_________________________________________________________
+
+# portfoliov3
+description: porfolio version March2026. AI-powered, AI filters approbal, SEO analisys and changes, several formats   CV-PDF creator
+tech: expo -  - 
+repo: 
+
 _________________________________________________________
 _________________________________________________________
 _________________________________________________________
