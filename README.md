@@ -65,6 +65,7 @@ ejercicio, meditacion, trabajo, alimentacion
 # AI generators
 - https://www.rapidnative.com
 - https://www.kimi.com/en
-- 
+- app.emergent.sh
+
 
 _________________________________________________________
