@@ -69,3 +69,10 @@ ejercicio, meditacion, trabajo, alimentacion
 
 
 _________________________________________________________
+automatizaciones:
+- "hola perdida" en n8n, manda un mensaje cada 5 días a todos tus contactos de tinder
+- los numeros de oro en whatsapp
+- 
+_________________________________________________________
+_________________________________________________________
+
