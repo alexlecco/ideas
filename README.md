@@ -74,5 +74,9 @@ automatizaciones:
 - los numeros de oro en whatsapp
 - 
 _________________________________________________________
+Course
+
+- https://anthropic.skilljar.com
+- 
 _________________________________________________________
 
