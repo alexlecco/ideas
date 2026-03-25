@@ -37,8 +37,12 @@ _________________________________________________________
 # salute
 description: Salute es una app que organiza tu menú semanal para comer lo que necesitas, logrando un equilibrio entre tus gustos y las cosas que te hacen bien. la aplicación tiene un modulo de aprendizaje sobre el usuario (no un stepper inicial, debemos pensar algo innovador), que permite conocer diferentes aspectos de la persona (estatura, peso, estado aninimo general, que ejercicio hace semanalmente, necesidades nutricionales, restricciones de salud como celiaquia o intelerancia a la lactosa y gustos personales en alimentación) cuando inicia a usar Salute y asi puede recomendarle los mejores menues para almuerzo y cena. a demás de recomendarte aleatoriamente recetas, te enseña a prepararla de una manera muy intuitiva mediante su fluida, moderna e innovadora UI 2026.
 Salute tiene un concepto sólido: personalización inteligente + UX fluida + educación nutricional.
+
+feature: salute world: te permite organizar tus desayunos, almuerzos y cenas saludables seleccionados por pais. si elegis Turkia, te tira platos de ese pais por ejemplo.
+
 tech: expo -  - 
 repo: 
+
 _________________________________________________________
 _________________________________________________________
 
