@@ -47,6 +47,7 @@ _________________________________________________________
 _________________________________________________________
 # abit
 
+
 description: Un tracker de hábitos inspirado en chains.cc — visualizá tus hábitos como cadenas y no las rompas. Construido con Ruby on Rails 8, Tailwind CSS, Hotwire y login con Google. #buildinpublic #rails #hábitos
 
 prompt:
