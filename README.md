@@ -45,6 +45,20 @@ repo:
 
 _________________________________________________________
 _________________________________________________________
+# abit
+
+description: Un tracker de hábitos inspirado en chains.cc — visualizá tus hábitos como cadenas y no las rompas. Construido con Ruby on Rails 8, Tailwind CSS, Hotwire y login con Google. #buildinpublic #rails #hábitos
+
+prompt:
+ I want to create an app in ruby on rails (latest version) similar to chains.cc, named abit. Do a research about this habit tracker in internet and do a clone. with a minimalist   
+UI. select a good stack in RoR, do a list of gems recommended and install them. Implement a google login and host the app. I will create the github repo. I attach an image to guide 
+ the design. plan all the steps for do this app
+
+ site: https://abit.onrender.com
+
+_________________________________________________________
+_________________________________________________________
+
 
 # portfoliov3
 description: porfolio version March2026. AI-powered, AI filters approbal, SEO analisys and changes, several formats   CV-PDF creator
