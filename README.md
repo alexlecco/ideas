@@ -66,6 +66,11 @@ description: porfolio version March2026. AI-powered, AI filters approbal, SEO an
 tech: expo -  - 
 repo: 
 
+Marzo 2026:
+- creación del onboarding de usuarios empresas
+- trabajo con arquitectura basada en paquetes, donde cada feature/package se trabaja en un repo diferente y todos se consumen/integran en un repo main (corporate-shell)
+- 
+
 _________________________________________________________
 _________________________________________________________
 _________________________________________________________
