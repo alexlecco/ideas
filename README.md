@@ -55,7 +55,9 @@ prompt:
 UI. select a good stack in RoR, do a list of gems recommended and install them. Implement a google login and host the app. I will create the github repo. I attach an image to guide 
  the design. plan all the steps for do this app
 
- site: https://abit.onrender.com
+ 
+- repo: https://github.com/alexlecco/abit
+- site: https://abit.onrender.com
 
 _________________________________________________________
 _________________________________________________________
