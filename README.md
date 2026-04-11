@@ -11,7 +11,7 @@ Este repositorio es una bitácora personal para organizar las ideas, experimento
 - **Concepto:** Sprints de 4 semanas. Coaching por IA y planes personalizados. La segunda ronda es paga.
 - **Tech Stack:** `Ruby on Rails 8` • `Hotwire` • `Tailwind` • `PostgreSQL`
 - **Estado:** Epic 3 (AI Trainer) en proceso.
-- **Links:** [GitHub Repo](https://github.com/alexlecco/abit) • [Live Site](https://abit.onrender.com)
+- **Links:** [GitHub Repo](https://github.com/alexlecco/abit) • [Live Site](https://abit.onrender.com) • [dashboard on render](https://dashboard.render.com/web/srv-d71mro63jp1c739egl7g/env)
 
 ```
 prompt:
