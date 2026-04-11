@@ -1,108 +1,85 @@
-## IDEAS
-este repo sirve para anotar las ideas que estoy trabajando actualmente
+# 🚀 Roadmap de Ideas & Proyectos | 2026
 
-_________________________________________________________
-# listita
--**description:** una simple pwa donde anotas tu lista de compras y te agrupa los productos por supermercados donde mas barato está. te envia promociones por dia. la idea es que sea una simple lista de compras y apartir de esa lista te muestra donde es mas barato comprar, estadisticas de compra, historial de precios, sugerencias, etc.
+Este repositorio es una bitácora personal para organizar las ideas, experimentos y desarrollos en los que estoy laburando.
 
--**tech:** vite - tailwind - supabase
+---
 
--**repos:**
-- [listita-pwa](github.com/alexlecco/listita-webapp)
-- listita-api (no repo yet)
+## 🏗️ Proyectos Activos (En Desarrollo)
 
--**features:**
-- mostrar cuanto gastarias en cada uno de los supermercados
-_________________________________________________________
-_________________________________________________________
-# teafeel
-description: una app para amantes del té. teafeel permite crear tu teabox personalizada, dependiendo de tus gustos o necesidades de salud. una vez creada la teabox, podes comprarla y luego pedir re-feel de tés. te manda consejos saludables sobre que té podes consumir para diferentes necesidades.
-tech: expo - shdncd
-repo:
-_________________________________________________________
-_________________________________________________________
-# spkio
-description: una aplicación para conferencias. asistis al evento y te dice todo sobre la charla que estas buscando: tema, descripcion, dia, hora, lugar, disertante, presentación para seguirla por la app. podes hacer preguntas y participar en encuestas en vivo.
-tech: expo - gluestack - supabase
+### ⛓️ #abit
+**Habit tracker** inspirado en *chains.cc*. La idea es visualizar tus hábitos como cadenas y no romper la racha.
+- **Concepto:** Sprints de 4 semanas. Coaching por IA y planes personalizados. La segunda ronda es paga.
+- **Tech Stack:** `Ruby on Rails 8` • `Hotwire` • `Tailwind` • `PostgreSQL`
+- **Estado:** Epic 3 (AI Trainer) en proceso.
+- **Links:** [GitHub Repo](https://github.com/alexlecco/abit) • [Live Site](https://abit.onrender.com)
 
-repo: [https://github.com/alexlecco/spkio](https://github.com/alexlecco/spkio)
-_________________________________________________________
-_________________________________________________________
-# conto
-description: una herramienta para pedir comida y bebida en bares y restaurantes. llegas, escaneas y pedis. compartiendo tu llegada, notificas a amigos donde estas y ganas puntos. 
-tech: vinext - shadcn - firebase
-repo:
-_________________________________________________________
-_________________________________________________________
-# salute
-description: Salute es una app que organiza tu menú semanal para comer lo que necesitas, logrando un equilibrio entre tus gustos y las cosas que te hacen bien. la aplicación tiene un modulo de aprendizaje sobre el usuario (no un stepper inicial, debemos pensar algo innovador), que permite conocer diferentes aspectos de la persona (estatura, peso, estado aninimo general, que ejercicio hace semanalmente, necesidades nutricionales, restricciones de salud como celiaquia o intelerancia a la lactosa y gustos personales en alimentación) cuando inicia a usar Salute y asi puede recomendarle los mejores menues para almuerzo y cena. a demás de recomendarte aleatoriamente recetas, te enseña a prepararla de una manera muy intuitiva mediante su fluida, moderna e innovadora UI 2026.
-Salute tiene un concepto sólido: personalización inteligente + UX fluida + educación nutricional.
-
-feature: salute world: te permite organizar tus desayunos, almuerzos y cenas saludables seleccionados por pais. si elegis Turkia, te tira platos de ese pais por ejemplo.
-
-tech: expo -  - 
-repo: 
-
-_________________________________________________________
-_________________________________________________________
-# abit
-
-
-description: Un tracker de hábitos inspirado en chains.cc — visualizá tus hábitos como cadenas y no las rompas. Construido con Ruby on Rails 8, Tailwind CSS, Hotwire y login con Google. #buildinpublic #rails #hábitos
-
+```
 prompt:
- I want to create an app in ruby on rails (latest version) similar to chains.cc, named abit. Do a research about this habit tracker in internet and do a clone. with a minimalist   
-UI. select a good stack in RoR, do a list of gems recommended and install them. Implement a google login and host the app. I will create the github repo. I attach an image to guide 
- the design. plan all the steps for do this app
+Epic 1
+ I want to create an app in ruby on rails (latest version) similar to chains.cc, named abit. Do a research about this habit tracker in internet and do a clone. with a minimalist UI. select a good stack in RoR, do a list of gems recommended and install them. Implement a google login and host the app. I will create the github repo. I attach an image to guide the design. plan all the steps for do this app
 
- 
-- repo: https://github.com/alexlecco/abit
-- site: https://abit.onrender.com
+Epic 2
+Each abit (term from the app to "habit") will have a screen with its own backound color, describing 3 ways to reach the goal of that abit: a) a way with a scheduled activities to complete every single day. lazzy tasks recomended for a AI (that is the next epic) each abit day tracked will depends of the reach of each activity in the day. b) Creating a path of free resources/courses/guides/workshops to learn about different things, from zero to "a different POV after 2 sprints/ 1 mounth of continue the abit"; and c) you Claude Code think and design a new way to help the users to reach their goles (create this new concept like "goals", and create the db in supabase). the user have to select one of them. each abit longs 2 sprints/1 mouth.
 
-_________________________________________________________
-_________________________________________________________
+Epic 3
+Create the AI trainer
+```
 
-
-# portfoliov3
-description: porfolio version March2026. AI-powered, AI filters approbal, SEO analisys and changes, several formats   CV-PDF creator
-tech: expo -  - 
-repo: 
-
-Marzo 2026:
-- creación del onboarding de usuarios empresas
-- trabajo con arquitectura basada en paquetes, donde cada feature/package se trabaja en un repo diferente y todos se consumen/integran en un repo main (corporate-shell)
-- 
-
-_________________________________________________________
-_________________________________________________________
-_________________________________________________________
-
-app que te arma una rutina
-
-proximo peoyecto
-
-vos le contas en un tweet como te sentis y te arma rutina
-
-ejercicio, meditacion, trabajo, alimentacion
+### 🛒 #listita
+PWA inteligente para optimizar las compras del súper.
+- **Features futuras:** Agrupa productos por el súper más barato, envía promociones del día y muestra estadísticas de gasto.
+- **Tech Stack:** `Vite` • `React` • `Tailwind` • `Supabase`
+- **Repos:** - [listita-pwa](https://github.com/alexlecco/listita-webapp)
+  - `listita-api` (Pendiente)
 
 
-### tools to learn
+### 🎤 #spkio
+App interactiva para conferencias y eventos.
+- **Features futuras:** Seguimiento de charlas, Q&A en vivo, encuestas y material de apoyo.
+- **Tech Stack:** `Expo` • `Gluestack` • `Supabase`
+- **Repo:** [spkio-repo](https://github.com/alexlecco/spkio)
 
-# AI generators
-- https://www.rapidnative.com
-- https://www.kimi.com/en
-- app.emergent.sh
+
+### ☕ #teafeel
+App para amantes del té. Teabox personalizada y sistema de re-feel. 
+- **features futuras:** enseña propiedades sobre los ingredientes, formas de preparación, compra tu teabox y hacele re-feel.
+- **Tech Stack:** `Expo` • `Shadcn`
+- **Repo:** [teafeel-repo](https://github.com/alexlecco/teafeel)
 
 
-_________________________________________________________
-automatizaciones:
-- "hola perdida" en n8n, manda un mensaje cada 5 días a todos tus contactos de tinder
-- los numeros de oro en whatsapp
-- 
-_________________________________________________________
-Course
 
-- https://anthropic.skilljar.com
-- 
-_________________________________________________________
+https://github.com/alexlecco/teafeel
 
+---
+
+## 💡 Ideas en el Lot
+
+| Proyecto | Descripción | Tech Sugerida |
+| :--- | :--- | :--- |
+| **Salute** | Planificador nutricional semanal con UI/UX innovadora. Onboarding basado en aprendizaje, no steppers. | `Expo` • `AI Engine` |
+| **Conto** | Sistema de pedidos en bares/restos con componente social (avisar a amigos). una herramienta para pedir comida y bebida en bares y restaurantes. llegas, escaneas y pedis. compartiendo tu llegada, notificas a amigos donde estas y ganas puntos.  | `Next.js` • `Firebase` |
+| **Portfolio v3** | Versión Marzo 2026. AI-powered, SEO dinámico y creador de CV en PDF. | `Expo` • `Tailwind` |
+| **MoodRoutine** | Generador de rutinas diarias basadas en un "tweet" de cómo te sentís hoy. | `LLM API` • `Astro` |
+
+---
+
+## 🧪 Laboratorio & Automatizaciones
+
+- **"Hola Perdida" (n8n):** Flujo de re-engagement automático para contactos de Tinder cada 5 días.
+- **Números de Oro:** Automatización de métricas de valor en WhatsApp.
+
+---
+
+## 📚 Resources & Learning
+
+### Tooling to Watch
+- [RapidNative](https://www.rapidnative.com) - Generador de apps nativas.
+- [Kimi AI](https://www.kimi.com/en) - Exploración de nuevos LLMs.
+- [Emergent Config](https://app.emergent.sh) - Build Full-Stack Web & Mobile Apps in minutes
+
+### Cursos & Docs
+- [Anthropic Skilljar](https://anthropic.skilljar.com) - Especialización en Claude & Prompt Engineering.
+
+---
+
+> **Nota de Marzo 2026:** Foco actual en arquitectura basada en paquetes (monorepo-style) integrando todo en un `corporate-shell`.
