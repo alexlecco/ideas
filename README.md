@@ -46,6 +46,12 @@ App para amantes del té. Teabox personalizada y sistema de re-feel.
 - **Tech Stack:** `Expo` • `Shadcn`
 - **Repo:** [teafeel-repo](https://github.com/alexlecco/teafeel)
 
+### 💼 Portfolio v4
+Versión Marzo 2026
+- **Features futuras:** AI-powered, SEO dinámico y creador de CV en PDF.
+- **Tech Stack:** `React` • `Tailwind` • `Firebase` |
+- **Repo:** [portfoliov4-repo](https://github.com/alexlecco/portfoliov4)
+
 
 
 https://github.com/alexlecco/teafeel
@@ -58,7 +64,6 @@ https://github.com/alexlecco/teafeel
 | :--- | :--- | :--- |
 | **Salute** | Planificador nutricional semanal con UI/UX innovadora. Onboarding basado en aprendizaje, no steppers. | `Expo` • `AI Engine` |
 | **Conto** | Sistema de pedidos en bares/restos con componente social (avisar a amigos). una herramienta para pedir comida y bebida en bares y restaurantes. llegas, escaneas y pedis. compartiendo tu llegada, notificas a amigos donde estas y ganas puntos.  | `Next.js` • `Firebase` |
-| **Portfolio v3** | Versión Marzo 2026. AI-powered, SEO dinámico y creador de CV en PDF. | `Expo` • `Tailwind` |
 | **MoodRoutine** | Generador de rutinas diarias basadas en un "tweet" de cómo te sentís hoy. | `LLM API` • `Astro` |
 
 ---
