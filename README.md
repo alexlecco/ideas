@@ -66,7 +66,7 @@ https://github.com/alexlecco/teafeel
 | **Conto** | Sistema de pedidos en bares/restos con componente social (avisar a amigos). una herramienta para pedir comida y bebida en bares y restaurantes. llegas, escaneas y pedis. compartiendo tu llegada, notificas a amigos donde estas y ganas puntos.  | `Next.js` • `Firebase` |
 | **MoodRoutine** | Generador de rutinas diarias basadas en un "tweet" de cómo te sentís hoy. | `LLM API` • `Astro` |
 | **Kara-lyrics** | Generador de karaoke videos, creá tu lyrics o karaoke desde un link musical youtube. https://studio.moises.ai/account-settings. 
-
+Pokedex Nativo IOS y ANDROID
 ---
 
 ## 🧪 Laboratorio & Automatizaciones
