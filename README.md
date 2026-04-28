@@ -67,6 +67,7 @@ https://github.com/alexlecco/teafeel
 | **MoodRoutine** | Generador de rutinas diarias basadas en un "tweet" de cómo te sentís hoy. | `LLM API` • `Astro` |
 | **Kara-lyrics** | Generador de karaoke videos, creá tu lyrics o karaoke desde un link musical youtube. https://studio.moises.ai/account-settings. 
 Pokedex Nativo IOS y ANDROID
+-creame la rutina de practicar inglés 15 min al dia. en un horario random, 1 vez al dia, de 9am a 6pm. crea en evento diario. donde además, me llegue un video en inglés relacionado a 'tecnología', 'juegos', 'house of the Dragon'. los videos vienen de una busqueda en youtube. de duración entre 3 minutos y 7 minutos. debe ser cosas divertidas, informativas, y relacionadas a la ia.
 ---
 
 ## 🧪 Laboratorio & Automatizaciones
