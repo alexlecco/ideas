@@ -68,7 +68,8 @@ https://github.com/alexlecco/teafeel
 | **Kara-lyrics** | Generador de karaoke videos, creá tu lyrics o karaoke desde un link musical youtube. https://studio.moises.ai/account-settings. 
 Pokedex Nativo IOS y ANDROID
 -creame la rutina de practicar inglés 15 min al dia. en un horario random, 1 vez al dia, de 9am a 6pm. crea en evento diario. donde además, me llegue un video en inglés relacionado a 'tecnología', 'juegos', 'house of the Dragon'. los videos vienen de una busqueda en youtube. de duración entre 3 minutos y 7 minutos. debe ser cosas divertidas, informativas, y relacionadas a la ia.
-- portfolioV4: 
+- portfolioV4:
+- as a software developer/UX designer/Business Analyst. senior all. write the prompt to Claude Code to create a website to learn "spec-drive development" step by step learning how this site was created. ask me anything you need to create a master prompt. this site will be created with spec-driven development. creating the structure, a modern site with 2026 design trends, for web and mobile, documenting the building of the site as an example of "spec-drive development". use html, css and javascript, commiting each change in https://github.com/alexlecco/learn-spec-driven-dev.
 ```
 data: {
   firstname: 'Alex'
