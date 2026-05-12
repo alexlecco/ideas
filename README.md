@@ -71,6 +71,8 @@ Pokedex Nativo IOS y ANDROID
 - portfolioV4:
 - as a software developer/UX designer/Business Analyst. senior all. write the prompt to Claude Code to create a website to learn "spec-drive development" step by step learning how this site was created. ask me anything you need to create a master prompt. this site will be created with spec-driven development. creating the structure, a modern site with 2026 design trends, for web and mobile, documenting the building of the site as an example of "spec-drive development". use html, css and javascript, commiting each change in https://github.com/alexlecco/learn-spec-driven-dev.
 - juego de encuestas, "cuando pagarias por:"
+- armar 3 automatizaciones para aprender n8n. beginner, intermediate, advanced
+- 
 - 
 ```
 data: {
